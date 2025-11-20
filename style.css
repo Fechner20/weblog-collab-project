@@ -8,7 +8,7 @@ body {
     
 }
 *{
-    cursor:url(Hello.png)103 64, auto;
+    cursor:url("Hello.png")103 64, auto;
 }
 h1{
     background-color: green;
