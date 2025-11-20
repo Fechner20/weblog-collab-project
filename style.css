@@ -24,6 +24,6 @@ img.img:hover{
     color:blue;
 } */
 img.img {
-    width:600px;
-    
+    max-width:600px;
+    margin: 350px;
 }
