@@ -25,5 +25,9 @@ img.img:hover{
 } */
 img.img {
     max-width:600px;
-    margin: 350px;
+    margin: 0 auto 1em auto;
+    
+}
+img.img1 {
+    max-width: 500px;
 }
