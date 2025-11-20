@@ -26,8 +26,17 @@ img.img:hover{
 img.img {
     max-width:600px;
     margin: 0 auto 1em auto;
+    display:block;
     
 }
 img.img1 {
-    max-width: 500px;
+    max-width:  500px;
+     border: 0px 0px 10px black;
+     margin: 0 auto 1em auto;
+    display:block;
+}
+img.img1:hover{
+    box-shadow: 0px 0px 1300px green;
+   
+    
 }
