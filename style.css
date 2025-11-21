@@ -49,3 +49,8 @@ p {
     font-size: larger;
 
 }
+
+a.inline {
+    font-size: larger;
+    float: middle;
+}
