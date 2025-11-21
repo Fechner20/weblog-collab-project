@@ -56,3 +56,9 @@ a.inline {
     
     color:greenyellow;
 }
+table.table {
+    background-color: greenyellow;
+}
+td {
+    color:greenyellow;
+}
