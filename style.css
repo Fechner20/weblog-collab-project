@@ -51,6 +51,8 @@ p {
 }
 
 a.inline {
+    text-align: center;
     font-size: larger;
-    float: middle;
+    
+    color:greenyellow;
 }
