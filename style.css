@@ -57,12 +57,13 @@ a.inline {
     color:greenyellow;
 }
 table.table {
-    background-color: white;
-}
-td {
+    background-color: greenyellow;
     color:black;
 }
-
+tr.norm {
+    color:black;
+}
+td.head
 ol.songs {
     color: greenyellow;
 }
