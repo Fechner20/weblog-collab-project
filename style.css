@@ -60,5 +60,9 @@ table.table {
     background-color: white;
 }
 td {
-    color:greenyellow;
+    color:black;
+}
+
+ol.songs {
+    color: greenyellow;
 }
